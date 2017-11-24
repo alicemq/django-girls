@@ -25,7 +25,7 @@ SECRET_KEY = 'k9@b)^)11k$5%sdzmr03w)-c%q258hdk-xc6)qz-v$pnrjh&fa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'alicemq.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
